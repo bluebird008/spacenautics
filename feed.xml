@@ -3,7 +3,7 @@
     <title>Space Aeronautics Club</title>
     <link href="https://bluebird008.github.io/spacenautics/feed.xml" rel="self" />
     <link href="https://bluebird008.github.io/spacenautics" />
-    <updated>2021-02-20T18:51:56+06:00</updated>
+    <updated>2021-02-20T19:00:50+06:00</updated>
     <author>
         <name>Hasan Mahmud</name>
     </author>
@@ -44,7 +44,7 @@
         <id>https://bluebird008.github.io/spacenautics/grilled-vegetable-terrine-with-tomato-sauce-7.html</id>
             <category term="Science"/>
 
-        <updated>2021-02-20T18:51:56+06:00</updated>
+        <updated>2021-02-20T19:00:50+06:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://bluebird008.github.io/spacenautics/media/posts/7/wine-1543170_1920.jpg" alt="" />
@@ -61,10 +61,15 @@
 <div><script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed" data-gumroad-product-id="vmdRE" data-outbound-embed="true"><a href="https://gumroad.com/l/vmdRE">Loading...</a></div>
 </div>
-
-  <p>
-    <script src="https://gumroad.com/js/gumroad-embed.js"></script><br><div class="gumroad-product-embed" data-gumroad-product-id="vmdRE" data-outbound-embed="true"><br></div>
-  </p>
+<div><script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/vmdRE?wanted=true" target="_blank">Buy my product</a>
+</div>
+<div><script src="https://gumroad.com/js/gumroad.js"></script>
+<a class="gumroad-button" href="https://gum.co/TWyXM?wanted=true" target="_blank">Buy my product</a>
+</div>
+<div><script src="https://gumroad.com/js/gumroad-embed.js"></script>
+<div class="gumroad-product-embed" data-gumroad-product-id="TWyXM"><a href="https://gumroad.com/l/TWyXM">Loading...</a></div>
+</div>
             ]]>
         </content>
     </entry>
